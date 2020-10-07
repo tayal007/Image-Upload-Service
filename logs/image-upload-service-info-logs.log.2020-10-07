@@ -1,0 +1,233 @@
+{"msg":"inprocess","promiseMethod":"startServer","level":"info","message":"","timestamp":"2020-10-07T06:31:13.761Z"}
+{"level":"info","message":"Listening on port 8000","timestamp":"2020-10-07T06:31:13.765Z"}
+{"msg":"success","promiseMethod":"startServer","level":"info","message":"","timestamp":"2020-10-07T06:31:13.765Z"}
+{"msg":"INIT_SUCCESS","level":"info","message":"","timestamp":"2020-10-07T06:31:13.765Z"}
+{"msg":"inprocess","promiseMethod":"getDbConnection","level":"info","message":"","timestamp":"2020-10-07T06:34:02.239Z"}
+{"msg":"success","promiseMethod":"getDbConnection","level":"info","message":"","timestamp":"2020-10-07T06:34:03.699Z"}
+{"msg":"inprocess","promiseMethod":"initMysqlTables","level":"info","message":"","timestamp":"2020-10-07T06:34:03.699Z"}
+{"msg":"success","promiseMethod":"initMysqlTables","level":"info","message":"","timestamp":"2020-10-07T06:34:04.015Z"}
+{"msg":"inprocess","promiseMethod":"startServer","level":"info","message":"","timestamp":"2020-10-07T06:34:04.016Z"}
+{"level":"info","message":"Listening on port 8000","timestamp":"2020-10-07T06:34:04.018Z"}
+{"msg":"success","promiseMethod":"startServer","level":"info","message":"","timestamp":"2020-10-07T06:34:04.018Z"}
+{"msg":"INIT_SUCCESS","level":"info","message":"","timestamp":"2020-10-07T06:34:04.019Z"}
+{"level":"info","message":"imageType: jpeg","timestamp":"2020-10-07T06:34:25.250Z"}
+{"level":"info","message":"imageSizeInKB: 83.51846077293085","timestamp":"2020-10-07T06:34:25.251Z"}
+{"level":"info","message":"upload image to s3 for:  4fe977eb-84a2-4154-a48b-051c6552adab.jpeg","timestamp":"2020-10-07T06:34:25.252Z"}
+{"level":"info","message":"upload complete for image to s3 for:  4fe977eb-84a2-4154-a48b-051c6552adab.jpeg","timestamp":"2020-10-07T06:34:30.926Z"}
+{"level":"info","message":"Setting image metadata for:  4fe977eb-84a2-4154-a48b-051c6552adab","timestamp":"2020-10-07T06:34:30.926Z"}
+{"level":"info","message":"Set successful for image metadata :  4fe977eb-84a2-4154-a48b-051c6552adab","timestamp":"2020-10-07T06:34:31.247Z"}
+{"msg":"inprocess","promiseMethod":"getDbConnection","level":"info","message":"","timestamp":"2020-10-07T06:36:54.141Z"}
+{"msg":"success","promiseMethod":"getDbConnection","level":"info","message":"","timestamp":"2020-10-07T06:36:55.491Z"}
+{"msg":"inprocess","promiseMethod":"initMysqlTables","level":"info","message":"","timestamp":"2020-10-07T06:36:55.491Z"}
+{"msg":"success","promiseMethod":"initMysqlTables","level":"info","message":"","timestamp":"2020-10-07T06:36:55.816Z"}
+{"msg":"inprocess","promiseMethod":"startServer","level":"info","message":"","timestamp":"2020-10-07T06:36:55.816Z"}
+{"level":"info","message":"Listening on port 8000","timestamp":"2020-10-07T06:36:55.818Z"}
+{"msg":"success","promiseMethod":"startServer","level":"info","message":"","timestamp":"2020-10-07T06:36:55.818Z"}
+{"msg":"INIT_SUCCESS","level":"info","message":"","timestamp":"2020-10-07T06:36:55.819Z"}
+{"level":"info","message":"imageType: jpeg","timestamp":"2020-10-07T06:37:08.385Z"}
+{"level":"info","message":"imageSizeInKB: 83.51846077293085","timestamp":"2020-10-07T06:37:08.386Z"}
+{"level":"info","message":"upload image to s3 for:  99f87f82-62d7-40be-a204-b51f0c7eed74.jpeg","timestamp":"2020-10-07T06:37:08.386Z"}
+{"level":"info","message":"upload complete for image to s3 for:  99f87f82-62d7-40be-a204-b51f0c7eed74.jpeg","timestamp":"2020-10-07T06:37:13.851Z"}
+{"level":"info","message":"Setting image metadata for:  99f87f82-62d7-40be-a204-b51f0c7eed74","timestamp":"2020-10-07T06:37:13.852Z"}
+{"level":"info","message":"Set successful for image metadata :  99f87f82-62d7-40be-a204-b51f0c7eed74","timestamp":"2020-10-07T06:37:14.217Z"}
+{"msg":"inprocess","promiseMethod":"getDbConnection","level":"info","message":"","timestamp":"2020-10-07T06:37:46.576Z"}
+{"msg":"success","promiseMethod":"getDbConnection","level":"info","message":"","timestamp":"2020-10-07T06:37:48.204Z"}
+{"msg":"inprocess","promiseMethod":"initMysqlTables","level":"info","message":"","timestamp":"2020-10-07T06:37:48.205Z"}
+{"msg":"success","promiseMethod":"initMysqlTables","level":"info","message":"","timestamp":"2020-10-07T06:37:48.660Z"}
+{"msg":"inprocess","promiseMethod":"startServer","level":"info","message":"","timestamp":"2020-10-07T06:37:48.660Z"}
+{"level":"info","message":"Listening on port 8000","timestamp":"2020-10-07T06:37:48.662Z"}
+{"msg":"success","promiseMethod":"startServer","level":"info","message":"","timestamp":"2020-10-07T06:37:48.663Z"}
+{"msg":"INIT_SUCCESS","level":"info","message":"","timestamp":"2020-10-07T06:37:48.663Z"}
+{"level":"info","message":"imageType: jpeg","timestamp":"2020-10-07T06:38:00.515Z"}
+{"level":"info","message":"imageSizeInKB: 83.51846077293085","timestamp":"2020-10-07T06:38:00.515Z"}
+{"level":"info","message":"upload image to s3 for:  972dd81b-9d75-4e08-98cc-284d521138e9.jpeg","timestamp":"2020-10-07T06:38:00.516Z"}
+{"level":"info","message":"upload complete for image to s3 for:  972dd81b-9d75-4e08-98cc-284d521138e9.jpeg","timestamp":"2020-10-07T06:38:06.275Z"}
+{"level":"info","message":"Setting image metadata for:  972dd81b-9d75-4e08-98cc-284d521138e9","timestamp":"2020-10-07T06:38:06.276Z"}
+{"level":"info","message":"Set successful for image metadata :  972dd81b-9d75-4e08-98cc-284d521138e9","timestamp":"2020-10-07T06:38:06.889Z"}
+{"msg":"inprocess","promiseMethod":"getDbConnection","level":"info","message":"","timestamp":"2020-10-07T06:39:13.826Z"}
+{"msg":"success","promiseMethod":"getDbConnection","level":"info","message":"","timestamp":"2020-10-07T06:39:15.103Z"}
+{"msg":"inprocess","promiseMethod":"initMysqlTables","level":"info","message":"","timestamp":"2020-10-07T06:39:15.104Z"}
+{"msg":"success","promiseMethod":"initMysqlTables","level":"info","message":"","timestamp":"2020-10-07T06:39:15.716Z"}
+{"msg":"inprocess","promiseMethod":"startServer","level":"info","message":"","timestamp":"2020-10-07T06:39:15.717Z"}
+{"level":"info","message":"Listening on port 8000","timestamp":"2020-10-07T06:39:15.719Z"}
+{"msg":"success","promiseMethod":"startServer","level":"info","message":"","timestamp":"2020-10-07T06:39:15.720Z"}
+{"msg":"INIT_SUCCESS","level":"info","message":"","timestamp":"2020-10-07T06:39:15.720Z"}
+{"msg":"inprocess","promiseMethod":"getDbConnection","level":"info","message":"","timestamp":"2020-10-07T06:45:04.401Z"}
+{"msg":"success","promiseMethod":"getDbConnection","level":"info","message":"","timestamp":"2020-10-07T06:45:06.697Z"}
+{"msg":"inprocess","promiseMethod":"initMysqlTables","level":"info","message":"","timestamp":"2020-10-07T06:45:06.698Z"}
+{"msg":"success","promiseMethod":"initMysqlTables","level":"info","message":"","timestamp":"2020-10-07T06:45:08.068Z"}
+{"msg":"inprocess","promiseMethod":"startServer","level":"info","message":"","timestamp":"2020-10-07T06:45:08.068Z"}
+{"level":"info","message":"Listening on port 8000","timestamp":"2020-10-07T06:45:08.071Z"}
+{"msg":"success","promiseMethod":"startServer","level":"info","message":"","timestamp":"2020-10-07T06:45:08.072Z"}
+{"msg":"INIT_SUCCESS","level":"info","message":"","timestamp":"2020-10-07T06:45:08.072Z"}
+{"level":"info","message":"imageType: jpeg","timestamp":"2020-10-07T06:45:19.950Z"}
+{"level":"info","message":"imageSizeInKB: 83.51846077293085","timestamp":"2020-10-07T06:45:19.951Z"}
+{"level":"info","message":"upload image to s3 for:  2600bac3-6929-471f-93c3-77beb35fc00b.jpeg","timestamp":"2020-10-07T06:45:19.951Z"}
+{"level":"info","message":"upload complete for image to s3 for:  2600bac3-6929-471f-93c3-77beb35fc00b.jpeg","timestamp":"2020-10-07T06:45:39.562Z"}
+{"level":"info","message":"Setting image metadata for:  2600bac3-6929-471f-93c3-77beb35fc00b","timestamp":"2020-10-07T06:45:39.562Z"}
+{"level":"info","message":"Set successful for image metadata :  2600bac3-6929-471f-93c3-77beb35fc00b","timestamp":"2020-10-07T06:45:40.534Z"}
+{"msg":"inprocess","promiseMethod":"getDbConnection","level":"info","message":"","timestamp":"2020-10-07T06:46:32.826Z"}
+{"msg":"success","promiseMethod":"getDbConnection","level":"info","message":"","timestamp":"2020-10-07T06:46:34.120Z"}
+{"msg":"inprocess","promiseMethod":"initMysqlTables","level":"info","message":"","timestamp":"2020-10-07T06:46:34.120Z"}
+{"msg":"success","promiseMethod":"initMysqlTables","level":"info","message":"","timestamp":"2020-10-07T06:46:34.538Z"}
+{"msg":"inprocess","promiseMethod":"startServer","level":"info","message":"","timestamp":"2020-10-07T06:46:34.538Z"}
+{"level":"info","message":"Listening on port 8000","timestamp":"2020-10-07T06:46:34.541Z"}
+{"msg":"success","promiseMethod":"startServer","level":"info","message":"","timestamp":"2020-10-07T06:46:34.542Z"}
+{"msg":"INIT_SUCCESS","level":"info","message":"","timestamp":"2020-10-07T06:46:34.542Z"}
+{"msg":"inprocess","promiseMethod":"getDbConnection","level":"info","message":"","timestamp":"2020-10-07T06:47:58.889Z"}
+{"msg":"success","promiseMethod":"getDbConnection","level":"info","message":"","timestamp":"2020-10-07T06:48:00.140Z"}
+{"msg":"inprocess","promiseMethod":"initMysqlTables","level":"info","message":"","timestamp":"2020-10-07T06:48:00.140Z"}
+{"msg":"success","promiseMethod":"initMysqlTables","level":"info","message":"","timestamp":"2020-10-07T06:48:00.862Z"}
+{"msg":"inprocess","promiseMethod":"startServer","level":"info","message":"","timestamp":"2020-10-07T06:48:00.862Z"}
+{"level":"info","message":"Listening on port 8000","timestamp":"2020-10-07T06:48:00.865Z"}
+{"msg":"success","promiseMethod":"startServer","level":"info","message":"","timestamp":"2020-10-07T06:48:00.865Z"}
+{"msg":"INIT_SUCCESS","level":"info","message":"","timestamp":"2020-10-07T06:48:00.866Z"}
+{"level":"info","message":"imageType: jpeg","timestamp":"2020-10-07T06:48:16.262Z"}
+{"level":"info","message":"imageSizeInKB: 83.51846077293085","timestamp":"2020-10-07T06:48:16.262Z"}
+{"level":"info","message":"upload image to s3 for:  8d429fc1-4fb6-499d-a0a0-0c1b3d978cdc.jpeg","timestamp":"2020-10-07T06:48:16.263Z"}
+{"level":"info","message":"upload complete for image to s3 for:  8d429fc1-4fb6-499d-a0a0-0c1b3d978cdc.jpeg","timestamp":"2020-10-07T06:48:20.952Z"}
+{"level":"info","message":"Setting image metadata for:  8d429fc1-4fb6-499d-a0a0-0c1b3d978cdc","timestamp":"2020-10-07T06:48:20.953Z"}
+{"level":"info","message":"Set successful for image metadata :  8d429fc1-4fb6-499d-a0a0-0c1b3d978cdc","timestamp":"2020-10-07T06:48:21.281Z"}
+{"msg":"inprocess","promiseMethod":"getDbConnection","level":"info","message":"","timestamp":"2020-10-07T06:50:46.495Z"}
+{"msg":"success","promiseMethod":"getDbConnection","level":"info","message":"","timestamp":"2020-10-07T06:50:48.165Z"}
+{"msg":"inprocess","promiseMethod":"initMysqlTables","level":"info","message":"","timestamp":"2020-10-07T06:50:48.166Z"}
+{"msg":"success","promiseMethod":"initMysqlTables","level":"info","message":"","timestamp":"2020-10-07T06:50:48.682Z"}
+{"msg":"inprocess","promiseMethod":"startServer","level":"info","message":"","timestamp":"2020-10-07T06:50:48.683Z"}
+{"level":"info","message":"Listening on port 8000","timestamp":"2020-10-07T06:50:48.685Z"}
+{"msg":"success","promiseMethod":"startServer","level":"info","message":"","timestamp":"2020-10-07T06:50:48.686Z"}
+{"msg":"INIT_SUCCESS","level":"info","message":"","timestamp":"2020-10-07T06:50:48.686Z"}
+{"level":"info","message":"imageType: jpeg","timestamp":"2020-10-07T06:50:57.434Z"}
+{"level":"info","message":"imageSizeInKB: 149.13850140985238","timestamp":"2020-10-07T06:50:57.435Z"}
+{"level":"info","message":"upload image to s3 for:  0d7c2e40-c349-4456-850a-43f97f4d4188.jpeg","timestamp":"2020-10-07T06:50:57.436Z"}
+{"level":"info","message":"upload complete for image to s3 for:  0d7c2e40-c349-4456-850a-43f97f4d4188.jpeg","timestamp":"2020-10-07T06:51:03.914Z"}
+{"level":"info","message":"Setting image metadata for:  0d7c2e40-c349-4456-850a-43f97f4d4188","timestamp":"2020-10-07T06:51:03.915Z"}
+{"level":"info","message":"Set successful for image metadata :  0d7c2e40-c349-4456-850a-43f97f4d4188","timestamp":"2020-10-07T06:51:05.265Z"}
+{"msg":"inprocess","promiseMethod":"getDbConnection","level":"info","message":"","timestamp":"2020-10-07T06:52:08.879Z"}
+{"msg":"success","promiseMethod":"getDbConnection","level":"info","message":"","timestamp":"2020-10-07T06:52:10.155Z"}
+{"msg":"inprocess","promiseMethod":"initMysqlTables","level":"info","message":"","timestamp":"2020-10-07T06:52:10.155Z"}
+{"msg":"success","promiseMethod":"initMysqlTables","level":"info","message":"","timestamp":"2020-10-07T06:52:10.691Z"}
+{"msg":"inprocess","promiseMethod":"startServer","level":"info","message":"","timestamp":"2020-10-07T06:52:10.691Z"}
+{"level":"info","message":"Listening on port 8000","timestamp":"2020-10-07T06:52:10.694Z"}
+{"msg":"success","promiseMethod":"startServer","level":"info","message":"","timestamp":"2020-10-07T06:52:10.695Z"}
+{"msg":"INIT_SUCCESS","level":"info","message":"","timestamp":"2020-10-07T06:52:10.695Z"}
+{"level":"info","message":"imageType: jpeg","timestamp":"2020-10-07T06:52:20.646Z"}
+{"level":"info","message":"imageSizeInKB: 83.51846077293085","timestamp":"2020-10-07T06:52:20.647Z"}
+{"level":"info","message":"upload image to s3 for:  7e53418d-f4e4-4176-82f1-c016c529d2db.jpeg","timestamp":"2020-10-07T06:52:20.648Z"}
+{"level":"info","message":"upload complete for image to s3 for:  7e53418d-f4e4-4176-82f1-c016c529d2db.jpeg","timestamp":"2020-10-07T06:52:25.750Z"}
+{"level":"error","message":"undefined","timestamp":"2020-10-07T06:52:25.752Z"}
+{"level":"info","message":"delete image from s3 for:  7e53418d-f4e4-4176-82f1-c016c529d2db.jpeg","timestamp":"2020-10-07T06:52:25.752Z"}
+{"level":"info","message":"delete successful for image from s3 for:  7e53418d-f4e4-4176-82f1-c016c529d2db.jpeg","timestamp":"2020-10-07T06:52:27.780Z"}
+{"level":"error","message":"BadRequestError: UPLOAD_FAILED\n    at /Users/shivam.tay/Desktop/Projects/image-upload-service/src/handlers/uploadImage.js:16:31\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)","timestamp":"2020-10-07T06:52:27.781Z"}
+{"msg":"inprocess","promiseMethod":"getDbConnection","level":"info","message":"","timestamp":"2020-10-07T06:52:53.273Z"}
+{"msg":"success","promiseMethod":"getDbConnection","level":"info","message":"","timestamp":"2020-10-07T06:52:54.609Z"}
+{"msg":"inprocess","promiseMethod":"initMysqlTables","level":"info","message":"","timestamp":"2020-10-07T06:52:54.609Z"}
+{"msg":"success","promiseMethod":"initMysqlTables","level":"info","message":"","timestamp":"2020-10-07T06:52:54.939Z"}
+{"msg":"inprocess","promiseMethod":"startServer","level":"info","message":"","timestamp":"2020-10-07T06:52:54.939Z"}
+{"level":"info","message":"Listening on port 8000","timestamp":"2020-10-07T06:52:54.941Z"}
+{"msg":"success","promiseMethod":"startServer","level":"info","message":"","timestamp":"2020-10-07T06:52:54.942Z"}
+{"msg":"INIT_SUCCESS","level":"info","message":"","timestamp":"2020-10-07T06:52:54.942Z"}
+{"msg":"inprocess","promiseMethod":"getDbConnection","level":"info","message":"","timestamp":"2020-10-07T06:59:18.728Z"}
+{"msg":"success","promiseMethod":"getDbConnection","level":"info","message":"","timestamp":"2020-10-07T06:59:20.313Z"}
+{"msg":"inprocess","promiseMethod":"initMysqlTables","level":"info","message":"","timestamp":"2020-10-07T06:59:20.313Z"}
+{"msg":"success","promiseMethod":"initMysqlTables","level":"info","message":"","timestamp":"2020-10-07T06:59:20.655Z"}
+{"msg":"inprocess","promiseMethod":"startServer","level":"info","message":"","timestamp":"2020-10-07T06:59:20.656Z"}
+{"level":"info","message":"Listening on port 8000","timestamp":"2020-10-07T06:59:20.658Z"}
+{"msg":"success","promiseMethod":"startServer","level":"info","message":"","timestamp":"2020-10-07T06:59:20.659Z"}
+{"msg":"INIT_SUCCESS","level":"info","message":"","timestamp":"2020-10-07T06:59:20.659Z"}
+{"msg":"inprocess","promiseMethod":"getDbConnection","level":"info","message":"","timestamp":"2020-10-07T06:59:53.514Z"}
+{"msg":"success","promiseMethod":"getDbConnection","level":"info","message":"","timestamp":"2020-10-07T06:59:55.101Z"}
+{"msg":"inprocess","promiseMethod":"initMysqlTables","level":"info","message":"","timestamp":"2020-10-07T06:59:55.102Z"}
+{"msg":"success","promiseMethod":"initMysqlTables","level":"info","message":"","timestamp":"2020-10-07T06:59:55.420Z"}
+{"msg":"inprocess","promiseMethod":"startServer","level":"info","message":"","timestamp":"2020-10-07T06:59:55.420Z"}
+{"level":"info","message":"Listening on port 8080","timestamp":"2020-10-07T06:59:55.422Z"}
+{"msg":"success","promiseMethod":"startServer","level":"info","message":"","timestamp":"2020-10-07T06:59:55.423Z"}
+{"msg":"INIT_SUCCESS","level":"info","message":"","timestamp":"2020-10-07T06:59:55.423Z"}
+{"msg":"inprocess","promiseMethod":"getDbConnection","level":"info","message":"","timestamp":"2020-10-07T07:00:28.964Z"}
+{"msg":"success","promiseMethod":"getDbConnection","level":"info","message":"","timestamp":"2020-10-07T07:00:30.845Z"}
+{"msg":"inprocess","promiseMethod":"initMysqlTables","level":"info","message":"","timestamp":"2020-10-07T07:00:30.845Z"}
+{"msg":"success","promiseMethod":"initMysqlTables","level":"info","message":"","timestamp":"2020-10-07T07:00:31.210Z"}
+{"msg":"inprocess","promiseMethod":"startServer","level":"info","message":"","timestamp":"2020-10-07T07:00:31.210Z"}
+{"level":"info","message":"Listening on port 80","timestamp":"2020-10-07T07:00:31.213Z"}
+{"msg":"success","promiseMethod":"startServer","level":"info","message":"","timestamp":"2020-10-07T07:00:31.213Z"}
+{"msg":"INIT_SUCCESS","level":"info","message":"","timestamp":"2020-10-07T07:00:31.214Z"}
+{"msg":"inprocess","promiseMethod":"getDbConnection","level":"info","message":"","timestamp":"2020-10-07T08:58:49.568Z"}
+{"level":"error","message":"Error: ER_BAD_DB_ERROR: Unknown database 'imagesmetadatadbdev'\n    at Handshake.Sequence._packetToError (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)\n    at Handshake.ErrorPacket (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/protocol/sequences/Handshake.js:123:18)\n    at Protocol._parsePacket (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/protocol/Protocol.js:291:23)\n    at Parser._parsePacket (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/protocol/Parser.js:433:10)\n    at Parser.write (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/protocol/Parser.js:43:10)\n    at Protocol.write (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/protocol/Protocol.js:38:16)\n    at Socket.<anonymous> (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/Connection.js:88:28)\n    at Socket.<anonymous> (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/Connection.js:526:10)\n    at Socket.emit (events.js:315:20)\n    at addChunk (_stream_readable.js:295:12)\n    --------------------\n    at Protocol._enqueue (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/protocol/Protocol.js:144:48)\n    at Protocol.handshake (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/protocol/Protocol.js:51:23)\n    at Connection.connect (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/Connection.js:116:18)\n    at /Users/shivam.tay/Desktop/Projects/image-upload-service/persistence/dbConnection.js:22:28\n    at new Promise (<anonymous>)\n    at /Users/shivam.tay/Desktop/Projects/image-upload-service/persistence/dbConnection.js:21:20\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)","timestamp":"2020-10-07T08:58:54.053Z"}
+{"msg":"success","promiseMethod":"getDbConnection","level":"info","message":"","timestamp":"2020-10-07T08:58:54.054Z"}
+{"msg":"inprocess","promiseMethod":"initMysqlDbAndTables","level":"info","message":"","timestamp":"2020-10-07T08:58:54.074Z"}
+{"level":"error","message":"Error: ER_BAD_DB_ERROR: Unknown database 'imagesmetadatadbdev'\n    at Handshake.Sequence._packetToError (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)\n    at Handshake.ErrorPacket (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/protocol/sequences/Handshake.js:123:18)\n    at Protocol._parsePacket (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/protocol/Protocol.js:291:23)\n    at Parser._parsePacket (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/protocol/Parser.js:433:10)\n    at Parser.write (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/protocol/Parser.js:43:10)\n    at Protocol.write (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/protocol/Protocol.js:38:16)\n    at Socket.<anonymous> (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/Connection.js:88:28)\n    at Socket.<anonymous> (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/Connection.js:526:10)\n    at Socket.emit (events.js:315:20)\n    at addChunk (_stream_readable.js:295:12)\n    --------------------\n    at Protocol._enqueue (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/protocol/Protocol.js:144:48)\n    at Protocol.handshake (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/protocol/Protocol.js:51:23)\n    at Connection.connect (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/Connection.js:116:18)\n    at /Users/shivam.tay/Desktop/Projects/image-upload-service/persistence/dbConnection.js:22:28\n    at new Promise (<anonymous>)\n    at /Users/shivam.tay/Desktop/Projects/image-upload-service/persistence/dbConnection.js:21:20\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)","timestamp":"2020-10-07T08:58:55.352Z"}
+{"err_name":"PROMISE_METHOD_ERROR","promiseMethod":"initMysqlDbAndTables","err_stk":"TypeError: Cannot read property 'query' of null\n    at /Users/shivam.tay/Desktop/Projects/image-upload-service/init/initMysqlDbAndTables.js:7:25\n    at new Promise (<anonymous>)\n    at /Users/shivam.tay/Desktop/Projects/image-upload-service/init/initMysqlDbAndTables.js:6:16\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)","level":"error","message":"","timestamp":"2020-10-07T08:58:55.356Z"}
+{"err_name":"PROMISE_ARRAY_ERROR","err_stk":"TypeError: Cannot read property 'query' of null\n    at /Users/shivam.tay/Desktop/Projects/image-upload-service/init/initMysqlDbAndTables.js:7:25\n    at new Promise (<anonymous>)\n    at /Users/shivam.tay/Desktop/Projects/image-upload-service/init/initMysqlDbAndTables.js:6:16\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)","level":"error","message":"","timestamp":"2020-10-07T08:58:55.358Z"}
+{"err_name":"INIT_FAILURE","err_stk":"TypeError: Cannot read property 'query' of null\n    at /Users/shivam.tay/Desktop/Projects/image-upload-service/init/initMysqlDbAndTables.js:7:25\n    at new Promise (<anonymous>)\n    at /Users/shivam.tay/Desktop/Projects/image-upload-service/init/initMysqlDbAndTables.js:6:16\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)","level":"error","message":"","timestamp":"2020-10-07T08:58:55.358Z"}
+{"msg":"inprocess","promiseMethod":"getDbConnection","level":"info","message":"","timestamp":"2020-10-07T09:12:18.447Z"}
+{"msg":"success","promiseMethod":"getDbConnection","level":"info","message":"","timestamp":"2020-10-07T09:12:21.001Z"}
+{"msg":"inprocess","promiseMethod":"initMysqlDbAndTables","level":"info","message":"","timestamp":"2020-10-07T09:12:21.001Z"}
+{"err_name":"PROMISE_METHOD_ERROR","promiseMethod":"initMysqlDbAndTables","err_stk":"Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'use imagesmetadatadbdev\nCREATE TABLE IF NOT EXISTS image_metadata(uuid char(36) ' at line 1\n    at Query.Sequence._packetToError (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)\n    at Query.ErrorPacket (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)\n    at Protocol._parsePacket (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/protocol/Protocol.js:291:23)\n    at Parser._parsePacket (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/protocol/Parser.js:433:10)\n    at Parser.write (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/protocol/Parser.js:43:10)\n    at Protocol.write (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/protocol/Protocol.js:38:16)\n    at Socket.<anonymous> (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/Connection.js:88:28)\n    at Socket.<anonymous> (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/Connection.js:526:10)\n    at Socket.emit (events.js:315:20)\n    at addChunk (_stream_readable.js:295:12)\n    --------------------\n    at Protocol._enqueue (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/protocol/Protocol.js:144:48)\n    at Connection.query (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/Connection.js:198:25)\n    at /Users/shivam.tay/Desktop/Projects/image-upload-service/init/initMysqlDbAndTables.js:7:25\n    at new Promise (<anonymous>)\n    at /Users/shivam.tay/Desktop/Projects/image-upload-service/init/initMysqlDbAndTables.js:6:16\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)","level":"error","message":"","timestamp":"2020-10-07T09:12:21.690Z"}
+{"err_name":"PROMISE_ARRAY_ERROR","err_stk":"Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'use imagesmetadatadbdev\nCREATE TABLE IF NOT EXISTS image_metadata(uuid char(36) ' at line 1\n    at Query.Sequence._packetToError (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)\n    at Query.ErrorPacket (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)\n    at Protocol._parsePacket (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/protocol/Protocol.js:291:23)\n    at Parser._parsePacket (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/protocol/Parser.js:433:10)\n    at Parser.write (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/protocol/Parser.js:43:10)\n    at Protocol.write (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/protocol/Protocol.js:38:16)\n    at Socket.<anonymous> (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/Connection.js:88:28)\n    at Socket.<anonymous> (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/Connection.js:526:10)\n    at Socket.emit (events.js:315:20)\n    at addChunk (_stream_readable.js:295:12)\n    --------------------\n    at Protocol._enqueue (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/protocol/Protocol.js:144:48)\n    at Connection.query (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/Connection.js:198:25)\n    at /Users/shivam.tay/Desktop/Projects/image-upload-service/init/initMysqlDbAndTables.js:7:25\n    at new Promise (<anonymous>)\n    at /Users/shivam.tay/Desktop/Projects/image-upload-service/init/initMysqlDbAndTables.js:6:16\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)","level":"error","message":"","timestamp":"2020-10-07T09:12:21.698Z"}
+{"err_name":"INIT_FAILURE","err_stk":"Error: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'use imagesmetadatadbdev\nCREATE TABLE IF NOT EXISTS image_metadata(uuid char(36) ' at line 1\n    at Query.Sequence._packetToError (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/protocol/sequences/Sequence.js:47:14)\n    at Query.ErrorPacket (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/protocol/sequences/Query.js:79:18)\n    at Protocol._parsePacket (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/protocol/Protocol.js:291:23)\n    at Parser._parsePacket (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/protocol/Parser.js:433:10)\n    at Parser.write (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/protocol/Parser.js:43:10)\n    at Protocol.write (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/protocol/Protocol.js:38:16)\n    at Socket.<anonymous> (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/Connection.js:88:28)\n    at Socket.<anonymous> (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/Connection.js:526:10)\n    at Socket.emit (events.js:315:20)\n    at addChunk (_stream_readable.js:295:12)\n    --------------------\n    at Protocol._enqueue (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/protocol/Protocol.js:144:48)\n    at Connection.query (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/mysql/lib/Connection.js:198:25)\n    at /Users/shivam.tay/Desktop/Projects/image-upload-service/init/initMysqlDbAndTables.js:7:25\n    at new Promise (<anonymous>)\n    at /Users/shivam.tay/Desktop/Projects/image-upload-service/init/initMysqlDbAndTables.js:6:16\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)","level":"error","message":"","timestamp":"2020-10-07T09:12:21.707Z"}
+{"msg":"inprocess","promiseMethod":"getDbConnection","level":"info","message":"","timestamp":"2020-10-07T09:14:23.691Z"}
+{"msg":"success","promiseMethod":"getDbConnection","level":"info","message":"","timestamp":"2020-10-07T09:14:26.151Z"}
+{"msg":"inprocess","promiseMethod":"initMysqlDbAndTables","level":"info","message":"","timestamp":"2020-10-07T09:14:26.152Z"}
+{"msg":"success","promiseMethod":"initMysqlDbAndTables","level":"info","message":"","timestamp":"2020-10-07T09:14:27.029Z"}
+{"msg":"inprocess","promiseMethod":"startServer","level":"info","message":"","timestamp":"2020-10-07T09:14:27.029Z"}
+{"level":"info","message":"Listening on port 80","timestamp":"2020-10-07T09:14:27.034Z"}
+{"msg":"success","promiseMethod":"startServer","level":"info","message":"","timestamp":"2020-10-07T09:14:27.035Z"}
+{"msg":"INIT_SUCCESS","level":"info","message":"","timestamp":"2020-10-07T09:14:27.035Z"}
+{"msg":"inprocess","promiseMethod":"getDbConnection","level":"info","message":"","timestamp":"2020-10-07T09:14:33.612Z"}
+{"msg":"success","promiseMethod":"getDbConnection","level":"info","message":"","timestamp":"2020-10-07T09:14:37.082Z"}
+{"msg":"inprocess","promiseMethod":"initMysqlDbAndTables","level":"info","message":"","timestamp":"2020-10-07T09:14:37.082Z"}
+{"msg":"success","promiseMethod":"initMysqlDbAndTables","level":"info","message":"","timestamp":"2020-10-07T09:14:37.514Z"}
+{"msg":"inprocess","promiseMethod":"startServer","level":"info","message":"","timestamp":"2020-10-07T09:14:37.514Z"}
+{"level":"info","message":"Listening on port 80","timestamp":"2020-10-07T09:14:37.517Z"}
+{"msg":"success","promiseMethod":"startServer","level":"info","message":"","timestamp":"2020-10-07T09:14:37.517Z"}
+{"msg":"INIT_SUCCESS","level":"info","message":"","timestamp":"2020-10-07T09:14:37.518Z"}
+{"level":"info","message":"imageType: jpeg","timestamp":"2020-10-07T09:15:05.274Z"}
+{"level":"info","message":"imageSizeInKB: 83.51846077293085","timestamp":"2020-10-07T09:15:05.274Z"}
+{"level":"info","message":"upload image to s3 for:  eab6948e-3265-4abd-8d98-414a9921b073.jpeg","timestamp":"2020-10-07T09:15:05.275Z"}
+{"level":"info","message":"upload complete for image to s3 for:  eab6948e-3265-4abd-8d98-414a9921b073.jpeg","timestamp":"2020-10-07T09:15:24.192Z"}
+{"level":"info","message":"Setting image metadata for:  eab6948e-3265-4abd-8d98-414a9921b073","timestamp":"2020-10-07T09:15:24.193Z"}
+{"level":"info","message":"Set successful for image metadata :  eab6948e-3265-4abd-8d98-414a9921b073","timestamp":"2020-10-07T09:15:24.601Z"}
+{"msg":"inprocess","promiseMethod":"getDbConnection","level":"info","message":"","timestamp":"2020-10-07T09:55:04.468Z"}
+{"err_name":"PROMISE_METHOD_EXCEPTION","promiseMethod":"getDbConnection","err_stk":"Error: ENOENT: no such file or directory, open '/Users/shivam.tay/Desktop/Projects/image-upload-service/configaws-credentials'\n    at Object.openSync (fs.js:458:3)\n    at Object.readFileSync (fs.js:360:35)\n    at getRDSCredentials (/Users/shivam.tay/Desktop/Projects/image-upload-service/persistence/dbConnection.js:9:33)\n    at Object.getDbConnection [as promiseMethod] (/Users/shivam.tay/Desktop/Projects/image-upload-service/persistence/dbConnection.js:19:16)\n    at params.logger.error.err_name (/Users/shivam.tay/Desktop/Projects/image-upload-service/init/init.js:26:39)\n    at /Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/async/dist/async.js:2154:44\n    at replenish (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/async/dist/async.js:440:21)\n    at /Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/async/dist/async.js:445:13\n    at eachLimit$1 (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/async/dist/async.js:2243:34)\n    at awaitable (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/async/dist/async.js:208:32)","level":"error","message":"","timestamp":"2020-10-07T09:55:04.470Z"}
+{"err_name":"PROMISE_ARRAY_ERROR","err_stk":"Error: ENOENT: no such file or directory, open '/Users/shivam.tay/Desktop/Projects/image-upload-service/configaws-credentials'\n    at Object.openSync (fs.js:458:3)\n    at Object.readFileSync (fs.js:360:35)\n    at getRDSCredentials (/Users/shivam.tay/Desktop/Projects/image-upload-service/persistence/dbConnection.js:9:33)\n    at Object.getDbConnection [as promiseMethod] (/Users/shivam.tay/Desktop/Projects/image-upload-service/persistence/dbConnection.js:19:16)\n    at params.logger.error.err_name (/Users/shivam.tay/Desktop/Projects/image-upload-service/init/init.js:26:39)\n    at /Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/async/dist/async.js:2154:44\n    at replenish (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/async/dist/async.js:440:21)\n    at /Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/async/dist/async.js:445:13\n    at eachLimit$1 (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/async/dist/async.js:2243:34)\n    at awaitable (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/async/dist/async.js:208:32)","level":"error","message":"","timestamp":"2020-10-07T09:55:04.470Z"}
+{"err_name":"INIT_FAILURE","err_stk":"Error: ENOENT: no such file or directory, open '/Users/shivam.tay/Desktop/Projects/image-upload-service/configaws-credentials'\n    at Object.openSync (fs.js:458:3)\n    at Object.readFileSync (fs.js:360:35)\n    at getRDSCredentials (/Users/shivam.tay/Desktop/Projects/image-upload-service/persistence/dbConnection.js:9:33)\n    at Object.getDbConnection [as promiseMethod] (/Users/shivam.tay/Desktop/Projects/image-upload-service/persistence/dbConnection.js:19:16)\n    at params.logger.error.err_name (/Users/shivam.tay/Desktop/Projects/image-upload-service/init/init.js:26:39)\n    at /Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/async/dist/async.js:2154:44\n    at replenish (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/async/dist/async.js:440:21)\n    at /Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/async/dist/async.js:445:13\n    at eachLimit$1 (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/async/dist/async.js:2243:34)\n    at awaitable (/Users/shivam.tay/Desktop/Projects/image-upload-service/node_modules/async/dist/async.js:208:32)","level":"error","message":"","timestamp":"2020-10-07T09:55:04.477Z"}
+{"msg":"inprocess","promiseMethod":"getDbConnection","level":"info","message":"","timestamp":"2020-10-07T09:55:33.981Z"}
+{"msg":"success","promiseMethod":"getDbConnection","level":"info","message":"","timestamp":"2020-10-07T09:55:35.952Z"}
+{"msg":"inprocess","promiseMethod":"initMysqlDbAndTables","level":"info","message":"","timestamp":"2020-10-07T09:55:35.953Z"}
+{"msg":"success","promiseMethod":"initMysqlDbAndTables","level":"info","message":"","timestamp":"2020-10-07T09:55:36.360Z"}
+{"msg":"inprocess","promiseMethod":"startServer","level":"info","message":"","timestamp":"2020-10-07T09:55:36.360Z"}
+{"level":"info","message":"Listening on port 80","timestamp":"2020-10-07T09:55:36.363Z"}
+{"msg":"success","promiseMethod":"startServer","level":"info","message":"","timestamp":"2020-10-07T09:55:36.364Z"}
+{"msg":"INIT_SUCCESS","level":"info","message":"","timestamp":"2020-10-07T09:55:36.364Z"}
+{"msg":"inprocess","promiseMethod":"getDbConnection","level":"info","message":"","timestamp":"2020-10-07T11:54:50.602Z"}
+{"msg":"success","promiseMethod":"getDbConnection","level":"info","message":"","timestamp":"2020-10-07T11:54:53.887Z"}
+{"msg":"inprocess","promiseMethod":"initMysqlDbAndTables","level":"info","message":"","timestamp":"2020-10-07T11:54:53.887Z"}
+{"msg":"success","promiseMethod":"initMysqlDbAndTables","level":"info","message":"","timestamp":"2020-10-07T11:54:54.283Z"}
+{"msg":"inprocess","promiseMethod":"startServer","level":"info","message":"","timestamp":"2020-10-07T11:54:54.283Z"}
+{"level":"info","message":"Listening on port 80","timestamp":"2020-10-07T11:54:54.286Z"}
+{"msg":"success","promiseMethod":"startServer","level":"info","message":"","timestamp":"2020-10-07T11:54:54.287Z"}
+{"msg":"INIT_SUCCESS","level":"info","message":"","timestamp":"2020-10-07T11:54:54.287Z"}
+{"msg":"Application running on http://127.0.0.1/","level":"info","message":"","timestamp":"2020-10-07T11:54:54.287Z"}
+{"msg":"inprocess","promiseMethod":"getDbConnection","level":"info","message":"","timestamp":"2020-10-07T11:55:06.147Z"}
+{"msg":"success","promiseMethod":"getDbConnection","level":"info","message":"","timestamp":"2020-10-07T11:55:09.128Z"}
+{"msg":"inprocess","promiseMethod":"initMysqlDbAndTables","level":"info","message":"","timestamp":"2020-10-07T11:55:09.128Z"}
+{"msg":"success","promiseMethod":"initMysqlDbAndTables","level":"info","message":"","timestamp":"2020-10-07T11:55:09.586Z"}
+{"msg":"inprocess","promiseMethod":"startServer","level":"info","message":"","timestamp":"2020-10-07T11:55:09.586Z"}
+{"level":"info","message":"Listening on port 80","timestamp":"2020-10-07T11:55:09.591Z"}
+{"msg":"success","promiseMethod":"startServer","level":"info","message":"","timestamp":"2020-10-07T11:55:09.592Z"}
+{"msg":"INIT_SUCCESS","level":"info","message":"","timestamp":"2020-10-07T11:55:09.592Z"}
+{"msg":"Application running on http://127.0.0.1/","level":"info","message":"","timestamp":"2020-10-07T11:55:09.593Z"}
+{"msg":"inprocess","promiseMethod":"getDbConnection","level":"info","message":"","timestamp":"2020-10-07T11:55:16.465Z"}
+{"msg":"success","promiseMethod":"getDbConnection","level":"info","message":"","timestamp":"2020-10-07T11:55:19.883Z"}
+{"msg":"inprocess","promiseMethod":"initMysqlDbAndTables","level":"info","message":"","timestamp":"2020-10-07T11:55:19.884Z"}
+{"msg":"success","promiseMethod":"initMysqlDbAndTables","level":"info","message":"","timestamp":"2020-10-07T11:55:20.600Z"}
+{"msg":"inprocess","promiseMethod":"startServer","level":"info","message":"","timestamp":"2020-10-07T11:55:20.601Z"}
+{"level":"info","message":"Listening on port 80","timestamp":"2020-10-07T11:55:20.604Z"}
+{"msg":"success","promiseMethod":"startServer","level":"info","message":"","timestamp":"2020-10-07T11:55:20.604Z"}
+{"msg":"INIT_SUCCESS","level":"info","message":"","timestamp":"2020-10-07T11:55:20.604Z"}
+{"msg":"Application running on http://127.0.0.1/","level":"info","message":"","timestamp":"2020-10-07T11:55:20.605Z"}
+{"level":"info","message":"imageType: jpeg","timestamp":"2020-10-07T11:55:31.011Z"}
+{"level":"info","message":"imageSizeInKB: 149.13850140985238","timestamp":"2020-10-07T11:55:31.011Z"}
+{"level":"info","message":"upload image to s3 for:  2464fa18-83f9-401e-a71e-ac7f909012c9.jpeg","timestamp":"2020-10-07T11:55:31.013Z"}
+{"level":"info","message":"upload complete for image to s3 for:  2464fa18-83f9-401e-a71e-ac7f909012c9.jpeg","timestamp":"2020-10-07T11:55:49.961Z"}
+{"level":"info","message":"Setting image metadata for:  2464fa18-83f9-401e-a71e-ac7f909012c9","timestamp":"2020-10-07T11:55:49.963Z"}
+{"level":"info","message":"Set successful for image metadata :  2464fa18-83f9-401e-a71e-ac7f909012c9","timestamp":"2020-10-07T11:55:50.327Z"}

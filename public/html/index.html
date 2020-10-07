@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Image Upload Service</title>
+</head>
+
+<script>
+    window.addEventListener( 'load', function () {
+        const text = document.getElementById( "theDesc" );
+        const file = {
+            dom    : document.getElementById( "theFile" ),
+            base64 : null
+        };
+        const reader = new FileReader();
+
+        reader.addEventListener( "load", function () {
+            file.base64 = reader.result;
+        } );
+
+        if( file.dom.files[0] ) {
+            reader.readAsDataURL( file.dom.files[0] );
+        }
+
+        file.dom.addEventListener( "change", function () {
+            if( reader.readyState === FileReader.LOADING ) {
+                reader.abort();
+            }
+            reader.readAsDataURL( file.dom.files[0] );
+        } );
+
+        function sendData() {
+            if( !file.base64 && file.dom.files.length > 0 ) {
+                setTimeout( sendData, 10 );
+                return;
+            }
+
+            const XHR = new XMLHttpRequest();
+
+            // Store our body request in a string.
+            let data = JSON.stringify({imageDesc: text.value, imageData: file.base64});
+
+            // Define what happens on successful data submission
+            XHR.addEventListener( 'load', function( event ) {
+                const response = JSON.parse(XHR.responseText);
+                if(XHR.status === 201) {
+                    document.getElementById("response").innerHTML = "Image uploaded successfully :)";
+                } else if(XHR.status === 400) {
+                    if(response.message === "request entity too large") {
+                        document.getElementById("response").innerHTML = "Please ensure that image size does not exceed 500KB or description is too long :|";
+                    } else if(response.message === "IMAGE_TYPE_ERROR") {
+                        document.getElementById("response").innerHTML = "Only .png and .jpeg images are allowed.";
+                    } else if (response.message === "IMAGE_SIZE_ERROR") {
+                        document.getElementById("response").innerHTML = "Please ensure that image size does not exceed 500KB.";
+                    } else if(response.message === "Event object failed validation") {
+                        if (Array.isArray(response.details) && response.details[0].dataPath === "/imageDesc") {
+                            document.getElementById("response").innerHTML = "You must provide a description for the image.";
+                        } else if (Array.isArray(response.details) && response.details[0].dataPath === "/imageData") {
+                            document.getElementById("response").innerHTML = "Image not selected or invalid image data. Please upload a valid .png or .jpeg file.";
+                        } else {
+                            document.getElementById("response").innerHTML = "Oops! Something went wrong. Please try again :(";
+                        }
+                    } else {
+                        document.getElementById("response").innerHTML = "Oops! Something went wrong. Please try again :(";
+                    }
+                } else if(XHR.status === 500) {
+                    document.getElementById("response").innerHTML = "Oops! Something went wrong. Please try again :(";
+                }
+                document.getElementById("submitBtn").removeAttribute('disabled');
+                text.removeAttribute('disabled');
+                file.dom.removeAttribute('disabled');
+            } );
+
+            // Define what happens in case of error
+            XHR.addEventListener( 'error', function( event ) {
+                document.getElementById("response").innerHTML = 'Oops! Something went wrong. Please try again :(';
+            } );
+
+            // Set up our request
+            XHR.open( 'POST', '/uploadImage');
+            XHR.setRequestHeader("Content-Type", "application/json");
+
+            // Add the required HTTP header to handle a multipart form data POST request
+            // And finally, send our data.
+            try {
+                XHR.send(data);
+            } catch (error) {
+                document.getElementById("response").innerHTML = 'Oops! Something went wrong.';
+            }
+        }
+
+        // Access our form...
+        const form = document.getElementById( "theForm" );
+
+        form.addEventListener('change', function () {
+            document.getElementById("response").innerHTML = "";
+        });
+
+        // ...to take over the submit event
+        form.addEventListener( 'submit', function ( event ) {
+            event.preventDefault();
+            document.getElementById("submitBtn").setAttribute('disabled', true);
+            text.setAttribute('disabled', true);
+            file.dom.setAttribute('disabled', true);
+            if(validateForm()) {
+                sendData();
+                document.getElementById("response").innerHTML = "Uploading... Please wait :D";
+            } else {
+                document.getElementById("submitBtn").removeAttribute('disabled');
+                text.removeAttribute('disabled');
+                file.dom.removeAttribute('disabled');
+            }
+        } );
+    } );
+    function validateForm() {
+        const text = document.getElementById( "theDesc" );
+        const file = document.getElementById( "theFile" );
+
+        if(file.files.length === 0) {
+            document.getElementById("response").innerHTML = "You must select an image.";
+            return false;
+        } else if(file.files[0].type !== 'image/jpeg' && file.files[0].type !== 'image/png') {
+            document.getElementById("response").innerHTML = "Only .png and .jpeg images are allowed.";
+            return false;
+        } else if (file.files[0].size > 500000) {
+            document.getElementById("response").innerHTML = "Please ensure that image size does not exceed 500KB.";
+            return false;
+        }  else if(!text.value && text.value.length < 1) {
+            document.getElementById("response").innerHTML = "You must provide a description for the image.";
+            return false;
+        }
+
+        return true;
+    }
+</script>
+<body>
+<div>
+    <p> Choose the file to Upload </p>
+</div>
+<div>
+    <form id="theForm" >
+        Image: <input id="theFile" type="file" name="file">
+        <label for="theDesc">Image Description: </label><input id="theDesc" type="text" name="desc">
+        <input id="submitBtn" type="submit" value="Submit">
+    </form>
+</div>
+
+<div id="response">
+</div>
+</body>
+
+</html>

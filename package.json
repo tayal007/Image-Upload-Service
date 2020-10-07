@@ -1,0 +1,31 @@
+{
+  "name": "image-upload-service",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./init/init.js"
+  },
+  "dependencies": {
+    "@middy/core": "1.4.0",
+    "@middy/http-error-handler": "1.4.0",
+    "@middy/http-event-normalizer": "1.4.0",
+    "@middy/http-json-body-parser": "1.4.0",
+    "@middy/validator": "1.4.0",
+    "async": "3.2.0",
+    "aws-sdk": "2.760.0",
+    "cookie-parser": "1.4.5",
+    "debug": "2.6.9",
+    "express": "4.16.4",
+    "express-winston": "0.3.1",
+    "fs": "0.0.1-security",
+    "http-errors": "1.6.3",
+    "ini": "1.3.5",
+    "jsonwebtoken": "8.5.1",
+    "morgan": "1.9.1",
+    "mysql": "2.18.1",
+    "q": "2.0.3",
+    "twig": "0.10.3",
+    "uuid": "8.3.0",
+    "winston": "1.0.1"
+  }
+}
